@@ -90,8 +90,11 @@ OpenField-Behavior-Analysis-DLC/
 │   └── behavioral_analysis.ipynb
 │
 ├── figures/
+│   ├── Mouse Trajectory.png
+│   ├── Movement Velocity.png
+│   └── Spatial Heatmap.png
 │
-├── sample_data/
+├── Coordinates.csv
 │
 ├── requirements.txt
 │
