@@ -27,7 +27,7 @@ The project was implemented using Python, DeepLabCut, NumPy, pandas, SciPy, and 
 
 Example of manual body-part annotation used for DeepLabCut training.
 
-![labeled image](main/labeled image.png)
+![labeled image](./labeled_image.png)
 
 ### 1. Pose Estimation with DeepLabCut
 A pretrained ResNet-50 backbone was used to track body-part coordinates from an open-field mouse video.
