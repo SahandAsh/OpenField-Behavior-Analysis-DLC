@@ -18,6 +18,7 @@ In this demo project, DeepLabCut outputs were used to perform downstream behavio
 - Spatial occupancy heatmap generation
 
 The project was implemented using Python, DeepLabCut, NumPy, pandas, SciPy, and Matplotlib.
+The footage used in this project belongs to the main DeepLabCut [repository](https://github.com/DeepLabCut/DeepLabCut/tree/main/examples/openfield-Pranav-2018-10-30)
 
 ---
 
