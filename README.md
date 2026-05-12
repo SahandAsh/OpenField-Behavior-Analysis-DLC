@@ -1,5 +1,7 @@
 # Open-Field Behavioral Analysis Using DeepLabCut
 
+![DLC.gif](./Figures/DLC.gif)
+
 This project demonstrates a basic computational workflow for quantitative behavioral analysis in a rodent open-field experiment using DeepLabCut-based pose estimation.
 
 The pipeline combines pose tracking, locomotion quantification, and spatial analysis to extract interpretable behavioral metrics from video recordings.
